@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE09OSSM-MFD35-02-PRESFC000-telemetered-presf_abc_dcl_tide_measurement
 data_stream: CE09OSSM-MFD35-02-PRESFC000-telemetered-presf_abc_dcl_tide_measurement
 end_date: '2021-07-15T00:29:46.124Z'
-last_updated: '2021-12-01T22:48:27.079017'
+last_updated: '2021-12-04T03:37:24.329450Z'
 start_date: '2015-04-09T17:30:02.222Z'
-status: success
+status: pending
